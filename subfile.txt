@@ -7,4 +7,5 @@ int main(){
 
 void subCall(){
 	std::cerr<<"sub call";
+	std::cout<<"sub call";
 }
