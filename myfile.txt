@@ -3,3 +3,8 @@
 int main(){
 	std::cout<<"hi"<<std::endl;
 }
+
+
+void errorMsg(char* msg){
+	std::cerr<<msg<<std::endl;
+}
