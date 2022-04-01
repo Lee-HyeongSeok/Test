@@ -7,6 +7,6 @@ int main(){
 
 void subCall(){
 	std::cerr<<"sub call";
-
 	std::cout<<"hello aa";
+	std::cout<<" sub call";
 }
