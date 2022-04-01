@@ -4,3 +4,7 @@ int main(){
 	std::cout<<"hello i'm master"<<std::endl;
 	std::cout<<"hello i'm issue1 asdasd"<<std::endl;
 }
+
+void subCall(){
+	std::cerr<<"sub call";
+}
