@@ -8,3 +8,7 @@ int main(){
 void errorMsg(char* msg){
 	std::cerr<<msg<<std::endl;
 }
+
+void servicePacket(const TCP& packet){
+	service(packet);
+}
