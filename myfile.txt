@@ -12,3 +12,7 @@ void errorMsg(char* msg){
 void servicePacket(const TCP& packet){
 	service(packet);
 }
+
+void submodule_modi(){
+
+}
